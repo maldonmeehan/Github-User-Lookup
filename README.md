@@ -45,5 +45,6 @@ If you run into any issues or have questions, ideas, or concerns, please feel fr
 ### License
 
 *MIT License*
+(https://opensource.org/licenses/MIT)
 
 Copyright (c) 2016 **_Epicodus_**
