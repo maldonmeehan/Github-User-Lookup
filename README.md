@@ -20,9 +20,12 @@ $ npm install
 $ bower install
 ```
 ```
+$ gulp build
+```
+```
 $ gulp serve
 ```
-* apiKey:
+* apiKey: c97ce33ffb1c454a13178af8e7eddaf458d15c7a
 
 ## Known Bugs
 
